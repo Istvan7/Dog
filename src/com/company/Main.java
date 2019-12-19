@@ -10,7 +10,7 @@ c=3;
 d=3.5;
 double rez=a+b+c-d;
         System.out.println(rez);
-
+zscbhzschjbzhjbzxcbhj
 
     }
 }
