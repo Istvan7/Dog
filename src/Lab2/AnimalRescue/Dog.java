@@ -4,8 +4,11 @@ public class Dog {
     String name ;
     String race ;
     float age ;
-    int size;
+    float size;
     boolean isFriendly;
+    int health_level;
+    int hungryness_level;
+    String favourite_food;
 
     public void run(){
         System.out.println("(tries to)Runs all day!");
