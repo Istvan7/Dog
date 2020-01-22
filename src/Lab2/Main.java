@@ -95,6 +95,7 @@ public static double milpeo(double distanta,double ore , double minute ,double s
 }
 
 
+
     }
 
 
