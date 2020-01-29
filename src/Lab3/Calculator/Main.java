@@ -17,6 +17,8 @@ public class Main {
         System.out.println(op.isNumberEven(3));
         System.out.println(op.isEligibleToVote(18));
         System.out.println(op.greater(3,2,1));
+        op.printNumber(8);
+
 
 
     }

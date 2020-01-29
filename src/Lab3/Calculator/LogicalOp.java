@@ -110,5 +110,18 @@ public class LogicalOp {
 
         }
     }
+
+    public void printNumber(int number) {
+        switch (number) {
+            case 100:
+                System.out.println("Valoarea este 100");
+                break;
+            case 200:
+                System.out.println("valoarea este 200");
+                break;
+            default:
+                System.out.println("valoarea este 0 ");
+        }
+    }
 }
 
